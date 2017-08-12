@@ -1,0 +1,17 @@
+body {
+  background-color: #102a54;
+  text-align: center;
+}
+
+p {
+  color: white;
+  font-family: sans-serif;
+}
+
+h1 {
+  z-index: 1;
+  color: red;
+  font-family: georgia serif;
+  font-style: italic;
+  font-size: 5em;
+}
